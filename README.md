@@ -1,7 +1,7 @@
 # Módulo de Gamificação **Trabalho Final de Engenharia de Software**
 > Objetivo: engajar alunas em atividades STEM (Ciência, Tecnologia, Engenharia e Matemática) através de gamificação.
 
-## 📋 Sobre o Projeto
+## Sobre o Projeto
 Este projeto consiste em um **microsserviço de gamificação** responsável por processar eventos acadêmicos (como assistir vídeos ou entregar atividades) e convertê-los em pontos e conquistas (badges).
 O foco do desenvolvimento foi a aplicação de boas práticas de Engenharia de Software, incluindo:
 - **Arquitetura em Camadas** (Model, Service, Strategy).
